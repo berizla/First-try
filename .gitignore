@@ -1,1 +1,2 @@
-.test.txt
+#list of ignore
+!test.txt
